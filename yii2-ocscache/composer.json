@@ -1,0 +1,21 @@
+{
+    "name": "th/yii2-ocscache",
+    "description": "cache",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "th",
+            "email": "th@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ocs\\cache\\": ""
+        }
+    }
+}
