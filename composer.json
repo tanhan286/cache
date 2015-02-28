@@ -1,5 +1,5 @@
 {
-    "name": "th/yii2-ocscache",
+    "name": "tanhan/yii2-ocscache",
     "description": "cache",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
